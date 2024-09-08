@@ -4,6 +4,7 @@
 		[0, 1, 0],
 		[1, 0, 1]
 	];
+	
 	let position = [];
 	const handleClick = (e, pos) => {
 		// position = [...position, pos];
